@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "start": "node serverr.js",
+  "start": "node server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/spaghettimedic/u-develop-it.git"
